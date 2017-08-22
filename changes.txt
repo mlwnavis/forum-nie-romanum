@@ -1,0 +1,7 @@
+ 
+#forum.py line 45
+[
+ if len(sys.argv) != 4:
+            print("Invalid syntax")
+        else:
+]
